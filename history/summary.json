@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 370,
-    "timeWeek": 370,
-    "timeMonth": 370,
-    "timeYear": 370,
+    "time": 373,
+    "timeDay": 375,
+    "timeWeek": 373,
+    "timeMonth": 373,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 213,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "time": 233,
+    "timeDay": 252,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/ntp.dothq.co",
     "slug": "ntp",
     "status": "down",
-    "uptime": "3.71%",
-    "uptimeDay": "3.71%",
-    "uptimeWeek": "3.71%",
-    "uptimeMonth": "3.71%",
-    "uptimeYear": "3.71%",
-    "time": 578,
-    "timeDay": 578,
-    "timeWeek": 578,
-    "timeMonth": 578,
-    "timeYear": 578,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 316,
+    "timeDay": 53,
+    "timeWeek": 316,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2020-12-13": 0
+      "2020-12-14": 53,
+      "2020-12-13": 1413
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2473,
-    "timeDay": 2473,
-    "timeWeek": 2473,
-    "timeMonth": 2473,
-    "timeYear": 2473,
+    "time": 1713,
+    "timeDay": 952,
+    "timeWeek": 1713,
+    "timeMonth": 1713,
+    "timeYear": 1713,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +80,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.19%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.45%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "99.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-13": 0
+      "2020-12-14": 53,
+      "2020-12-13": 1413
     }
   }
 ]
