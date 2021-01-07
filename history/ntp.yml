@@ -1,7 +1,7 @@
 url: https://ntp.dothq.co
-status: down
-code: 502
-responseTime: 253
-lastUpdated: 2021-01-07T19:37:31.774Z
+status: up
+code: 200
+responseTime: 272
+lastUpdated: 2021-01-07T19:42:48.764Z
 startTime: Sun Dec 13 2020 00:26:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
