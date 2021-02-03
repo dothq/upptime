@@ -12,6 +12,8 @@ sites:
     url: https://ntp.dothq.co
   - name: Services
     url: https://services.dothq.co
+  - name: dothq.link
+    url: https://dothq.link
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
