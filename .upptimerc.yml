@@ -25,12 +25,14 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/50807955?v=4
   name: Dot HQ Status
   introTitle: "Status reports for all Dot HQ programs and services."
-  introMessage: View real-time status reports for all Dot HQ programs and services, powered completely through Github Actions.
+  introMessage: View and check the status of Dot HQ services and products in real-time with status reports when something goes wrong.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - title: Twitter
+      href: https://twitter.com/DotBrowser
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
