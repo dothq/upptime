@@ -1,7 +1,7 @@
 url: https://dothq.co
-status: up
-code: 200
-responseTime: 219
-lastUpdated: 2021-07-07T11:18:00.780Z
+status: down
+code: 500
+responseTime: 299
+lastUpdated: 2021-07-07T11:30:51.375Z
 startTime: Sun Dec 13 2020 00:26:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
